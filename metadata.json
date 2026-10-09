@@ -1,0 +1,6 @@
+{
+  "name": "JOHN'S | Premium Gentlemen's Barbershop",
+  "description": "Classic cuts and modern style at JOHN'S Barbershop. Traditional grooming, precision haircuts, beard sculpting, and a relaxed luxury lounge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
